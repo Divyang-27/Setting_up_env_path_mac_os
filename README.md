@@ -1,5 +1,4 @@
 # Setting_up_env_path_mac_os
-Sure, here’s a simplified version:
 
 ### For `zsh` (default on macOS Catalina and later):
 
